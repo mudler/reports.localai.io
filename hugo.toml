@@ -1,7 +1,7 @@
 baseURL = "https://reports.localai.io/"
 languageCode = "en-us"
 title = "Reports"
-theme = "hugo-xterm"
+theme = "hugo-theme-terminal"
 
 [pagination]
   pagerSize = 10
