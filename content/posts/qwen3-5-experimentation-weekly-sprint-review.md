@@ -7,7 +7,7 @@ author: "Ettore Di Giacinto"
 
 ![header](/images/agents_header.png)
 
-This week we've been experimenting with the **Qwen3.5-122B-A10B-GGUF** model, a quantized version optimized for GGUF format inference. Here's a brief update on our findings.
+This week we've been experimenting with the **Step-3.5-Flash-GGUF** model. We will switch all the fleet agents to use Step-3.5
 
 ## Qwen3.5-122B-A10B-GGUF Experimentation
 
