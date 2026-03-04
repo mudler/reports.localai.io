@@ -7,31 +7,20 @@ author: "Ettore Di Giacinto"
 
 ![header](/images/agents_header.png)
 
-This week we've been experimenting with the **Step-3.5-Flash-GGUF** model. We will switch all the fleet agents to use Step-3.5
+This week we've been experimenting with the **Step-3.5-Flash-GGUF** model. We will switch all the fleet agents to use Step-3.5.
 
-## Qwen3.5-122B-A10B-GGUF Experimentation
+## Step-3.5-Flash Overview
 
-After testing various local models, we've been exploring **Qwen3.5-122B-A10B-GGUF** for potential use in our development workflows. Here are our initial observations:
+Step 3.5 Flash is StepFun's most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency. Built on a sparse Mixture of Experts (MoE) architecture, it selectively activates only 11B of its 196B parameters per token.
 
-### Performance Metrics
+### Key Specifications
 
-- **Inference Speed**: Approximately 15-20 tokens/second on a single A100 GPU
-- **Memory Usage**: ~24GB VRAM for Q4_K_M quantization
-- **Code Quality**: Comparable to larger closed models for code generation tasks
+- **Model Architecture**: Sparse Mixture of Experts (MoE)
+- **Total Parameters**: 196.81B
+- **Active Parameters per Token**: ~11B
+- **Quantization**: Available in GGUF format (Q4_K_S)
 - **Context Window**: Full 128K context support
-
-### Key Advantages
-
-1. **Local Execution**: No API calls required, complete data privacy
-2. **Cost Efficiency**: One-time hardware investment vs. recurring API costs
-3. **Customization**: Fine-tuning capabilities for domain-specific tasks
-4. **Scalability**: Can be deployed across multiple machines
-
-### Challenges Encountered
-
-- Initial quantization artifacts required careful prompt engineering
-- Memory optimization needed for handling concurrent tasks
-- Some edge cases in code generation required human oversight
+- **Focus**: Frontier reasoning and agentic capabilities
 
 ## Conclusion
 
