@@ -12,49 +12,49 @@ categories: [reports]
 **PRs Opened**: 20+ PRs including model gallery updates, llama.cpp/stable-diffusion.cpp updates, bug fixes
 
 **PRs Merged**: 
-- #8837: llama.cpp update to c5a778891
-- #8831: Model descriptions fix
-- #8830, #8828: Model gallery additions
-- #8822: llama.cpp update to 566059a26
-- #8820: Agentic management feature
-- #8816: LOCALAI_DISABLE_MCP env var
-- #8805: LTX-2.3 model addition
-- #8797, #8796: Dependency updates
+- https://github.com/mudler/LocalAI/pull/8837: llama.cpp update to c5a778891
+- https://github.com/mudler/LocalAI/pull/8831: Model descriptions fix
+- https://github.com/mudler/LocalAI/pull/8830, https://github.com/mudler/LocalAI/pull/8828: Model gallery additions
+- https://github.com/mudler/LocalAI/pull/8822: llama.cpp update to 566059a26
+- https://github.com/mudler/LocalAI/pull/8820: Agentic management feature
+- https://github.com/mudler/LocalAI/pull/8816: LOCALAI_DISABLE_MCP env var
+- https://github.com/mudler/LocalAI/pull/8805: LTX-2.3 model addition
+- https://github.com/mudler/LocalAI/pull/8797, https://github.com/mudler/LocalAI/pull/8796: Dependency updates
 
 **PRs Closed (not merged)**:
-- #8839, #8835, #8834, #8829, #8827, #8826, #8823, #8821, #8818, #8814, #8813 (mostly model gallery auto-PRs)
-- #8824: Investigation report closed
-- #8818, #8814: Replaced by #8816
+- https://github.com/mudler/LocalAI/pull/8839, https://github.com/mudler/LocalAI/pull/8835, https://github.com/mudler/LocalAI/pull/8834, https://github.com/mudler/LocalAI/pull/8829, https://github.com/mudler/LocalAI/pull/8827, https://github.com/mudler/LocalAI/pull/8826, https://github.com/mudler/LocalAI/pull/8823, https://github.com/mudler/LocalAI/pull/8821, https://github.com/mudler/LocalAI/pull/8818, https://github.com/mudler/LocalAI/pull/8814, https://github.com/mudler/LocalAI/pull/8813 (mostly model gallery auto-PRs)
+- https://github.com/mudler/LocalAI/pull/8824: Investigation report closed
+- https://github.com/mudler/LocalAI/pull/8818, https://github.com/mudler/LocalAI/pull/8814: Replaced by https://github.com/mudler/LocalAI/pull/8816
 
 **Open PRs Awaiting Review** (as of Mar 8, 2026):
-- #8845: Documentation links fix
-- #8844: Model gallery addition
-- #8843: Soundgeneration debug fix
-- #8841: stable-diffusion.cpp update (Mar 7)
-- #8840: CONTRIBUTING.md updates (Mar 7)
-- #8836: Huggingface backend removal (Mar 7)
-- #8832: llama.cpp autoparser refactoring (Mar 7)
-- #8819: stable-diffusion.cpp update re-creation (Mar 6)
-- #8817: Backend image fallback tags (Mar 6)
-- #8793: neutts-air model parameter fix (Mar 5)
-- #8786: Tag filtering fix (Mar 5)
-- #8774: nemo-parakeet transcription fix (Mar 4)
+- https://github.com/mudler/LocalAI/pull/8845: Documentation links fix
+- https://github.com/mudler/LocalAI/pull/8844: Model gallery addition
+- https://github.com/mudler/LocalAI/pull/8843: Soundgeneration debug fix
+- https://github.com/mudler/LocalAI/pull/8841: stable-diffusion.cpp update (Mar 7)
+- https://github.com/mudler/LocalAI/pull/8840: CONTRIBUTING.md updates (Mar 7)
+- https://github.com/mudler/LocalAI/pull/8836: Huggingface backend removal (Mar 7)
+- https://github.com/mudler/LocalAI/pull/8832: llama.cpp autoparser refactoring (Mar 7)
+- https://github.com/mudler/LocalAI/pull/8819: stable-diffusion.cpp update re-creation (Mar 6)
+- https://github.com/mudler/LocalAI/pull/8817: Backend image fallback tags (Mar 6)
+- https://github.com/mudler/LocalAI/pull/8793: neutts-air model parameter fix (Mar 5)
+- https://github.com/mudler/LocalAI/pull/8786: Tag filtering fix (Mar 5)
+- https://github.com/mudler/LocalAI/pull/8774: nemo-parakeet transcription fix (Mar 4)
 
 **Agent-Handled Issues**:
-- #8792: neutts-air download issue → PR #8793
-- #8775: Tag filtering bug → PR #8786
-- #8682: nemo-parakeet empty transcription → PR #8774
-- #8335: stable-diffusion.cpp update → PR #8819 (re-creation)
-- #8620: Mistral tool call parsing → Investigation completed, PR #8824 closed
-- #8811, #8814, #8674, #27, #8335: PR re-creations completed
+- https://github.com/mudler/LocalAI/pull/8792: neutts-air download issue → PR https://github.com/mudler/LocalAI/pull/8793
+- https://github.com/mudler/LocalAI/pull/8775: Tag filtering bug → PR https://github.com/mudler/LocalAI/pull/8786
+- https://github.com/mudler/LocalAI/pull/8682: nemo-parakeet empty transcription → PR https://github.com/mudler/LocalAI/pull/8774
+- https://github.com/mudler/LocalAI/pull/8335: stable-diffusion.cpp update → PR https://github.com/mudler/LocalAI/pull/8819 (re-creation)
+- https://github.com/mudler/LocalAI/pull/8620: Mistral tool call parsing → Investigation completed, PR https://github.com/mudler/LocalAI/pull/8824 closed
+- https://github.com/mudler/LocalAI/pull/8811, https://github.com/mudler/LocalAI/pull/8814, https://github.com/mudler/LocalAI/pull/8674, https://github.com/mudler/LocalAI/pull/27, https://github.com/mudler/LocalAI/pull/8335: PR re-creations completed
 
 ### LocalAI Repository Changes (Non-Agent Contributions)
 
 Notable community contributions:
-- #8838: peg-based parsing feature by mudler
-- #8806: vllm grammar support by eureka928
-- #8801: MLX-distributed backend by mudler
-- #8790: WebRTC realtime support by richiejp
+- https://github.com/mudler/LocalAI/pull/8838: peg-based parsing feature by mudler
+- https://github.com/mudler/LocalAI/pull/8806: vllm grammar support by eureka928
+- https://github.com/mudler/LocalAI/pull/8801: MLX-distributed backend by mudler
+- https://github.com/mudler/LocalAI/pull/8790: WebRTC realtime support by richiejp
 
 ### Metrics Summary
 
