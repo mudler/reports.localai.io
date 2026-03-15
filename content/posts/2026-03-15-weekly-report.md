@@ -22,22 +22,22 @@ The following PRs were merged this week:
 
 | PR # | Title | Author |
 |------|-------|--------|
-| #9004 | chore: drop AIO images | mudler |
-| #8997 | chore: :arrow_up: Update ggml-org/llama.cpp | localai-bot |
-| #8995 | fix(flux.2-klein-9b): Use Qwen3-8b | richiejp (Contributor) |
-| #8994 | fix(conf): Don't overwrite env galleries | richiejp (Contributor) |
-| #8993 | fix(acestep-cpp): resolve relative paths | localai-bot |
-| #8985 | chore(model-gallery): update checksum | localai-bot |
-| #8984 | chore: Update ace-step/acestep.cpp | localai-bot |
-| #8983 | chore: Update ggml-org/llama.cpp | localai-bot |
-| #8981 | fix(collections): start agent pool | mudler (Contributor) |
-| #8979 | chore(ui): improve errors | mudler (Contributor) |
-| #8978 | fix(ui): Move routes to /app | richiejp (Contributor) |
-| #8973 | fix(llama-cpp): Set enable_thinking | richiejp (Contributor) |
-| #8971 | Remove HuggingFace backend | localai-bot |
-| #8965 | feat(backends): add ace-step.cpp | mudler (Contributor) |
-| #8962 | feat: add fish-speech backend | mudler (Contributor) |
-| #8961 | feat(swagger): update swagger | localai-bot |
+| [#9004](https://github.com/mudler/LocalAI/pull/9004) | chore: drop AIO images | mudler |
+| [#8997](https://github.com/mudler/LocalAI/pull/8997) | chore: :arrow_up: Update ggml-org/llama.cpp | localai-bot |
+| [#8995](https://github.com/mudler/LocalAI/pull/8995) | fix(flux.2-klein-9b): Use Qwen3-8b | richiejp (Contributor) |
+| [#8994](https://github.com/mudler/LocalAI/pull/8994) | fix(conf): Don't overwrite env galleries | richiejp (Contributor) |
+| [#8993](https://github.com/mudler/LocalAI/pull/8993) | fix(acestep-cpp): resolve relative paths | localai-bot |
+| [#8985](https://github.com/mudler/LocalAI/pull/8985) | chore(model-gallery): update checksum | localai-bot |
+| [#8984](https://github.com/mudler/LocalAI/pull/8984) | chore: Update ace-step/acestep.cpp | localai-bot |
+| [#8983](https://github.com/mudler/LocalAI/pull/8983) | chore: Update ggml-org/llama.cpp | localai-bot |
+| [#8981](https://github.com/mudler/LocalAI/pull/8981) | fix(collections): start agent pool | mudler (Contributor) |
+| [#8979](https://github.com/mudler/LocalAI/pull/8979) | chore(ui): improve errors | mudler (Contributor) |
+| [#8978](https://github.com/mudler/LocalAI/pull/8978) | fix(ui): Move routes to /app | richiejp (Contributor) |
+| [#8973](https://github.com/mudler/LocalAI/pull/8973) | fix(llama-cpp): Set enable_thinking | richiejp (Contributor) |
+| [#8971](https://github.com/mudler/LocalAI/pull/8971) | Remove HuggingFace backend | localai-bot |
+| [#8965](https://github.com/mudler/LocalAI/pull/8965) | feat(backends): add ace-step.cpp | mudler (Contributor) |
+| [#8962](https://github.com/mudler/LocalAI/pull/8962) | feat: add fish-speech backend | mudler (Contributor) |
+| [#8961](https://github.com/mudler/LocalAI/pull/8961) | feat(swagger): update swagger | localai-bot |
 
 **Total Merged:** 16 PRs
 
@@ -47,12 +47,12 @@ The following PRs were merged this week:
 
 New PRs opened this week include:
 
-- **#9013** - fix: Intel Arc GPU error handling (2026-03-15)
-- **#9009** - Update llama.cpp (2026-03-14)
-- **#9008** - Update docs version (2026-03-14)
-- **#9007** - Add 1 new model via gallery (2026-03-14)
-- **#8980** - Add model via gallery (2026-03-12)
-- **#8974** - feat: standalone agent mode (2026-03-12)
+- **[#9013](https://github.com/mudler/LocalAI/pull/9013)** - fix: Intel Arc GPU error handling (2026-03-15)
+- **[#9009](https://github.com/mudler/LocalAI/pull/9009)** - Update llama.cpp (2026-03-14)
+- **[#9008](https://github.com/mudler/LocalAI/pull/9008)** - Update docs version (2026-03-14)
+- **[#9007](https://github.com/mudler/LocalAI/pull/9007)** - Add 1 new model via gallery (2026-03-14)
+- **[#8980](https://github.com/mudler/LocalAI/pull/8980)** - Add model via gallery (2026-03-12)
+- **[#8974](https://github.com/mudler/LocalAI/pull/8974)** - feat: standalone agent mode (2026-03-12)
 
 Plus 20+ model gallery addition PRs (many subsequently closed/consolidated)
 
@@ -67,27 +67,27 @@ Plus 20+ model gallery addition PRs (many subsequently closed/consolidated)
 ## Contributor Highlights
 
 ### richiejp (Richard Palethorpe)
-- **#8995** - fix(flux.2-klein-9b): Use Qwen3-8b (MERGED)
-- **#8994** - fix(conf): Don't overwrite env galleries (MERGED)
-- **#8978** - fix(ui): Move routes to /app (MERGED)
-- **#8973** - fix(llama-cpp): Set enable_thinking (MERGED)
+- **[#8995](https://github.com/mudler/LocalAI/pull/8995)** - fix(flux.2-klein-9b): Use Qwen3-8b (MERGED)
+- **[#8994](https://github.com/mudler/LocalAI/pull/8994)** - fix(conf): Don't overwrite env galleries (MERGED)
+- **[#8978](https://github.com/mudler/LocalAI/pull/8978)** - fix(ui): Move routes to /app (MERGED)
+- **[#8973](https://github.com/mudler/LocalAI/pull/8973)** - fix(llama-cpp): Set enable_thinking (MERGED)
 
 ### mudler (Ettore Di Giacinto)
-- **#9010** - fix: Change baseDir (OPEN)
-- **#9004** - chore: drop AIO images (MERGED)
-- **#8981** - fix(collections): start agent pool (MERGED)
-- **#8979** - chore(ui): improve errors (MERGED)
-- **#8965** - feat(backends): add ace-step.cpp (MERGED)
-- **#8962** - feat: add fish-speech backend (MERGED)
+- **[#9010](https://github.com/mudler/LocalAI/pull/9010)** - fix: Change baseDir (OPEN)
+- **[#9004](https://github.com/mudler/LocalAI/pull/9004)** - chore: drop AIO images (MERGED)
+- **[#8981](https://github.com/mudler/LocalAI/pull/8981)** - fix(collections): start agent pool (MERGED)
+- **[#8979](https://github.com/mudler/LocalAI/pull/8979)** - chore(ui): improve errors (MERGED)
+- **[#8965](https://github.com/mudler/LocalAI/pull/8965)** - feat(backends): add ace-step.cpp (MERGED)
+- **[#8962](https://github.com/mudler/LocalAI/pull/8962)** - feat: add fish-speech backend (MERGED)
 
 ### Other Notable Contributors
-- **eureka928** - #8806 - feat(vllm): grammar support (OPEN)
-- **neilruaro-camb** - #8753 - feat: CAMB AI API (OPEN)
-- **avianion** - #8666 - feat: Avian provider (OPEN)
-- **adhikjoshi** - #8597 - feat: ModelsLab backend (OPEN)
-- **MkDev11** - #8589 - feat: SpiritLM backend (OPEN)
-- **richiejp** - #8523 - feat: Sherpa ONNX backend (OPEN)
-- **JairoGuo** - #8404 - feat: diffusers large models (OPEN)
+- **eureka928** - [#8806](https://github.com/mudler/LocalAI/pull/8806) - feat(vllm): grammar support (OPEN)
+- **neilruaro-camb** - [#8753](https://github.com/mudler/LocalAI/pull/8753) - feat: CAMB AI API (OPEN)
+- **avianion** - [#8666](https://github.com/mudler/LocalAI/pull/8666) - feat: Avian provider (OPEN)
+- **adhikjoshi** - [#8597](https://github.com/mudler/LocalAI/pull/8597) - feat: ModelsLab backend (OPEN)
+- **MkDev11** - [#8589](https://github.com/mudler/LocalAI/pull/8589) - feat: SpiritLM backend (OPEN)
+- **richiejp** - [#8523](https://github.com/mudler/LocalAI/pull/8523) - feat: Sherpa ONNX backend (OPEN)
+- **JairoGuo** - [#8404](https://github.com/mudler/LocalAI/pull/8404) - feat: diffusers large models (OPEN)
 
 ---
 
@@ -119,14 +119,14 @@ Plus 20+ model gallery addition PRs (many subsequently closed/consolidated)
 ## Open Issues Awaiting Attention
 
 The following PRs are currently open and awaiting review:
-- #9010 - fix: Change baseDir (mudler)
-- #8806 - feat(vllm): grammar support (eureka928)
-- #8753 - feat: CAMB AI API (neilruaro-camb)
-- #8666 - feat: Avian provider (avianion)
-- #8597 - feat: ModelsLab backend (adhikjoshi)
-- #8589 - feat: SpiritLM backend (MkDev11)
-- #8523 - feat: Sherpa ONNX backend (richiejp)
-- #8404 - feat: diffusers large models (JairoGuo)
+- [#9010](https://github.com/mudler/LocalAI/pull/9010) - fix: Change baseDir (mudler)
+- [#8806](https://github.com/mudler/LocalAI/pull/8806) - feat(vllm): grammar support (eureka928)
+- [#8753](https://github.com/mudler/LocalAI/pull/8753) - feat: CAMB AI API (neilruaro-camb)
+- [#8666](https://github.com/mudler/LocalAI/pull/8666) - feat: Avian provider (avianion)
+- [#8597](https://github.com/mudler/LocalAI/pull/8597) - feat: ModelsLab backend (adhikjoshi)
+- [#8589](https://github.com/mudler/LocalAI/pull/8589) - feat: SpiritLM backend (MkDev11)
+- [#8523](https://github.com/mudler/LocalAI/pull/8523) - feat: Sherpa ONNX backend (richiejp)
+- [#8404](https://github.com/mudler/LocalAI/pull/8404) - feat: diffusers large models (JairoGuo)
 
 ---
 
